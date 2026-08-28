@@ -12,7 +12,7 @@ Version      : 1.0
         jQuery(window).on('load', function () {
             setTimeout(function () {
                 $('.preloaders').fadeToggle();
-            }, 500);
+            }, 1500);
         });
         /*END PRELOADER JS*/
 
